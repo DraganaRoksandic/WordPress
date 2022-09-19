@@ -1,0 +1,18 @@
+2022-09-18T07:12:23+00:00 CRITICAL Uncaught Error: Undefined constant "‘init’" in /home/droksandic/public_html/projekat/wp-content/themes/Divi-child/functions.php:55
+Stack trace:
+#0 /home/droksandic/public_html/projekat/wp-settings.php(566): include()
+#1 /home/droksandic/public_html/projekat/wp-config.php(96): require_once('/home/droksandi...')
+#2 /home/droksandic/public_html/projekat/wp-load.php(50): require_once('/home/droksandi...')
+#3 /home/droksandic/public_html/projekat/wp-admin/admin.php(34): require_once('/home/droksandi...')
+#4 {main}
+  thrown in /home/droksandic/public_html/projekat/wp-content/themes/Divi-child/functions.php on line 55
+
+2022-09-18T07:14:17+00:00 CRITICAL Uncaught Error: Undefined constant "‘init’" in /home/droksandic/public_html/projekat/wp-content/themes/Divi-child/functions.php:56
+Stack trace:
+#0 /home/droksandic/public_html/projekat/wp-settings.php(566): include()
+#1 /home/droksandic/public_html/projekat/wp-config.php(96): require_once('/home/droksandi...')
+#2 /home/droksandic/public_html/projekat/wp-load.php(50): require_once('/home/droksandi...')
+#3 /home/droksandic/public_html/projekat/wp-admin/admin.php(34): require_once('/home/droksandi...')
+#4 {main}
+  thrown in /home/droksandic/public_html/projekat/wp-content/themes/Divi-child/functions.php on line 56
+
